@@ -1,0 +1,31 @@
+{
+  "greeting": "კაი ვიწყებ, მოგილოცავ",
+  "name": "ისაა... ჭინკა",
+  "greetingText": "ვაახ ნეტა როგორ უნდა 8 მარტის მილოცვაა... 🤔💭",
+  "wishText": "მოკლედ, კიდევ ერთხელ გილოცავ",
+  "imagePath": "img/lydia2.png",
+  "text1": "კაი, მოიცა... დავსერჩავ...",
+  "textInChatBox": "როგორ მივულოცოთ ჭინკას 8 მარტი?",
+  "sendButtonLabel": "ძიება",
+  "text2": "ჭინკა გილოცავ 8 მარტს",
+  "text3": "პირველ რიგში ჯანმრთელი და ბედნიერი",
+  "text4": "მერე ნასწავლი და განათლებული",
+  "text4Adjective": "ყოფილიყავი",
+  "text5Entry": "ვინაიდან,",
+  "text5Content": "ჯერ პირადად არ შეგხვედრივარ, მაგრამ მაინც ძალიან მომწონხარ...",
+  "smiley": "🫲",
+  "bigTextPart1": "ყვავილები",
+  "bigTextPart2": "სტუდიაში 👏",
+  "wishHeading": "Chk Chk!",
+  "outroText": "რა იდიოტები არიან",
+  "replayText": "ყვავილები ვთხოვე და ბუშტები მოიტანეს! 🤣",
+  "outroSmiley": "👈",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "BPG Arial",
+      "path": "//cdn.web-fonts.ge/fonts/bpg-arial/css/bpg-arial.min.css"
+    }
+  ]
+}
+
